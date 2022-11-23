@@ -1,0 +1,57 @@
+body {
+    background-color: bisque;
+}
+
+.imagenes{
+   display: block;
+   
+}
+.Nos{
+    border-top: 20px;
+    border-left: 20px;
+    border-width: 20px;
+    border-right: 20px;
+    border-color: black;
+    border-style: solid;
+    width: 500px;
+
+}
+
+
+
+.Me{
+    border-top: 20px;
+    border-left: 20px;
+    border-width: 20px;
+    border-right: 20px;
+    border-color: black;
+    border-style: solid;
+    width: 400px;
+    height: auto;
+}
+.Z{
+    border-top: 20px;
+    border-left: 20px;
+    border-width: 20px;
+    border-right: 20px;
+    border-color: black;
+    border-style: solid;
+    width: 200px;
+    height: auto;
+
+
+}
+p{
+    font-size:larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.P{
+    font-size:larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ol{
+    font-size: larger;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
